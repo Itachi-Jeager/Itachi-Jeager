@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ogunware Oluwatobi
 - 👀 I’m interested in Data Science and Front End Web Development
-- 🌱 I’m currently learning Vue.js
-- 💞️ I’m looking to collaborate on Data Apps
+- 🌱 I’m currently learning Vue.js, API development
+- 💞️ I’m looking to collaborate on Data Apps, Data Science projects
 - 📫 How to reach me LinkedIn and Twitter
 
 <!---
