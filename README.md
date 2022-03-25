@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ogunware Oluwatobi
-- 👀 I’m interested in Data Science and Front End Web Development
-- 🌱 I’m currently learning Vue.js, API development
+- 👀 I’m interested in Data Science and Web Development
+- 🌱 I’m currently learning Elm Lang, API development with FastAPI
 - 💞️ I’m looking to collaborate on Data Apps, Data Science projects
 - 📫 How to reach me [LinkedIn](linkedin.com/in/ogunware-oluwatobi-ai/)
 
